@@ -1,0 +1,48 @@
+header{
+    background-color: #222222;
+    display: flex;
+    justify-content:space-between;
+    align-items:center;
+  
+}
+section{
+    display: flex;
+    justify-content:space-around;  
+    align-items: center;
+   
+   
+}
+nav{
+    color: white;
+    list-style: none;
+}
+.caja2{
+    border-radius: 5px;
+  
+}
+
+body{
+    background: #E5E5E5;
+}
+span{
+    color: #FFFFFF;
+}
+h2{
+color:#FC200C;    
+}
+  
+.caja2{
+    background-color: #FFFFFF;
+}
+.paginas{
+     display: flex;
+    flex-direction: column;
+    
+}
+footer{
+    background-color: #222222;
+    display: flex;
+    justify-content: space-between;
+
+}
+
